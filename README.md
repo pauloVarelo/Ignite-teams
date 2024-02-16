@@ -9,21 +9,25 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./ignite-teams.png" width="100%">
+  <img alt="projeto Ignite Teams" src="./ignite-teams.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- React
+- ReactNative
+- Typescript
 - JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://github.com/pauloVarelo/linkPortifolio)
+O Ignite Teams é um aplicativo de adicionar / remover turmas e participantes para um melhor controle times. 
+- Na primeira tela você tem a opção de cria nova turma.
+- Clicando em Criar nova turma você sera redirecionado a outra tela. Para adicionar um nome a sua turma;
+- Voltando à pagina principal. Voce pode clicar na sua turma para adicionar os participantes.
+- A turma é dividida em Times A e B. Pode adicionar e remover quantos times quiser.
 
