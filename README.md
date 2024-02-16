@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./Cover.png" width="100%">
+  <img alt="projeto DevLinks" src="./ignite-teams.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
